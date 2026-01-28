@@ -15,7 +15,7 @@ This project features a comprehensive Power BI dashboard that analyzes sales dat
 
 ## Prerequisites
 - **Microsoft Power BI Desktop**: You need to have Power BI Desktop installed to view and interact with the `.pbix` file. [Download here](https://powerbi.microsoft.com/en-us/desktop/).
-
+- **View Dashboard**: https://app.powerbi.com/groups/me/reports/b241a48c-3651-4aab-9f0f-bf9fff729e81/5d74a44c09e528d4a007?experience=power-bi
 ## How to Use
 1.  **Clone or Download** the repository.
 2.  **Open** `flipkart dashboard.pbix` using Microsoft Power BI Desktop.
@@ -24,3 +24,4 @@ This project features a comprehensive Power BI dashboard that analyzes sales dat
 
 ## Credits
 - Data sourced for Flipkart sales analysis.
+
